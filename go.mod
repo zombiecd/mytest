@@ -1,3 +1,3 @@
-module github.com/robteix/testmod
+module github.com/zombiecd/mytest
 
 go 1.16
